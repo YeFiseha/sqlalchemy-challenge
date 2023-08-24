@@ -46,7 +46,7 @@ def welcome():
         f"Stations:/api/v1.0/stations<br/>"
         f"Temperature observations:/api/v1.0/tobs<br/>"
         f"Temperature from start date:/api/v1.0/yyyy-mm-dd<br/>"
-        f"Temperature from start to end dates:/api/v1.0/[start_date format:yyyy-mm-dd/yyyy-mm-dd<br/>"
+        f"Temperature from start to end dates:/api/v1.0/yyyy-mm-dd/yyyy-mm-dd<br/>"
     )
 
 # Query results from the precipitation analysis
